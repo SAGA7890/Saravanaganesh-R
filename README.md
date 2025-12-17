@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saravana Ganesh
+# 👋 Hi, I'm Saravanaganesh R
 
 🎓 Final-year CSE student  
 🔐 Interested in Cybersecurity & Secure Web Development  
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 I am passionate about building **security-focused applications** and understanding how systems can be protected against common vulnerabilities.  
-I focus on **practical tools** rather than theoretical hacking.
+
 
 ---
 
