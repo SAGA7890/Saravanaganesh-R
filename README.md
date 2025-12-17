@@ -2,12 +2,13 @@
 
 🎓 Final-year CSE student  
 🔐 Interested in Cybersecurity & Secure Web Development  
-🐍 Python | 🌐 Flask | 🔎 Networking Basics  
+🐍 Python | 🌐 Flask | 🔎 Networking Basics | ⚛️ MERN Stack (Beginner)
 
 ---
 
 ## 🚀 About Me
 I am passionate about building **security-focused applications** and understanding how systems can be protected against common vulnerabilities.  
+I am also learning **full-stack web development using the MERN stack** to build secure and scalable web applications.
 
 
 ---
